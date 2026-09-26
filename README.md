@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -32,6 +33,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Queue
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
