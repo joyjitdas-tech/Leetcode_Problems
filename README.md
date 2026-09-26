@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -50,6 +51,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
