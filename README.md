@@ -8,6 +8,7 @@
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -55,4 +57,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
