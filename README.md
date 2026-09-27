@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0015-3sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -87,4 +88,8 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
