@@ -92,4 +92,12 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
