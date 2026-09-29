@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -134,6 +135,7 @@
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -148,4 +150,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
