@@ -40,6 +40,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0205-isomorphic-strings) |
@@ -123,6 +124,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -130,4 +132,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
