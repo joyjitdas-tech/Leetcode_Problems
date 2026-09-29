@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -29,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -131,6 +133,7 @@
 | [0155-min-stack](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
