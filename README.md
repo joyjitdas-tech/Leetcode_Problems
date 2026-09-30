@@ -65,6 +65,7 @@
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -147,6 +148,7 @@
 | [0155-min-stack](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
