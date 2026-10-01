@@ -19,6 +19,7 @@
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -65,6 +66,7 @@
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
@@ -119,6 +121,7 @@
 | [0203-remove-linked-list-elements](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -148,6 +151,7 @@
 | [0155-min-stack](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
