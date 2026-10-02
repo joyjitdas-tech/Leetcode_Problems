@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
@@ -181,6 +182,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
