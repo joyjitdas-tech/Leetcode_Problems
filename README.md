@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -177,4 +178,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
