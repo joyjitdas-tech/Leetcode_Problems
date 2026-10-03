@@ -108,6 +108,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -140,6 +141,7 @@
 | [0203-remove-linked-list-elements](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -195,4 +197,5 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
+| [0342-power-of-four](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
