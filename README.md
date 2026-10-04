@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
