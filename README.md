@@ -30,6 +30,7 @@
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -125,6 +126,7 @@
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
@@ -213,4 +215,5 @@
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
