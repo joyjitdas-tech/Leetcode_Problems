@@ -19,6 +19,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0377-combination-sum-iv) |
@@ -124,6 +125,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -132,6 +134,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
@@ -213,6 +216,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
