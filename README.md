@@ -35,6 +35,7 @@
 | [0875-koko-eating-bananas](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -146,6 +147,7 @@
 | [0704-binary-search](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Linked List
 |  |
 | ------- |
