@@ -26,6 +26,7 @@
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
+| [0704-binary-search](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
@@ -137,6 +138,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
