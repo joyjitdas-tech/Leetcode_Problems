@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -143,6 +144,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
