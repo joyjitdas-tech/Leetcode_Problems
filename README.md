@@ -34,6 +34,7 @@
 | [0735-asteroid-collision](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
+| [0860-lemonade-change](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -134,6 +135,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |
