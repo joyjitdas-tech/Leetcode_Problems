@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0377-combination-sum-iv](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0377-combination-sum-iv) |
+| [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0622-design-circular-queue) |
@@ -63,6 +64,7 @@
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0853-car-fleet](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0853-car-fleet) |
 ## String
 |  |
@@ -107,6 +109,7 @@
 | [0189-rotate-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -130,6 +133,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -239,4 +243,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
