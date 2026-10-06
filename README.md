@@ -15,6 +15,7 @@
 | [0046-permutations](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0377-combination-sum-iv](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0377-combination-sum-iv) |
 | [0509-fibonacci-number](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0509-fibonacci-number) |
@@ -134,6 +136,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/joyjitdas-tech/Leetcode_Problems/tree/master/0860-lemonade-change) |
 ## Prefix Sum
