@@ -7,6 +7,6 @@ class Solution:
                 return False
             max_r=max(max_r,nums[i]+i)
 
-            if max_r == len(nums)-1:
+            if max_r >= len(nums)-1:
                 return True
         return True
